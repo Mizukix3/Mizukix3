@@ -2,7 +2,7 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando Engenharia de Computação na <a href="https://www.ufms.br">UFMS</a>.
-- 💼 &nbsp; Trabalhando como Desenvolvimento Java na EVOP
+- 💼 &nbsp; Trabalhando com Desenvolvimento Java na EVOP
 - 🌱 &nbsp; Aprendendo mais sobre C#, Java, HTML e CSS.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
